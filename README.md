@@ -1,1 +1,3 @@
-# dockerfile-golang-libvips
+# Dockerfile Golang libvips
+Check Dockerfile for details.
+Enjoy...
